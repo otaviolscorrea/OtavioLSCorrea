@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hello, I'm Otávio Corrêa
+- 👨‍💻 Graduating in Computer Engineering - UFOP
+- 📫 How to reach me: otavio.correa@aluno.ufop.edu.br
+- ⚡ Fun fact: I love offline and online games, books, socializing with friends, barbecue and I'm eclectic for music.
 
 <!--
 **otaviolscorrea/OtavioLSCorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
