@@ -1,6 +1,4 @@
 - 👋 Hello, I'm Otávio Corrêa
-- 👨‍💻 Graduating in Computer Engineering - UFOP
-- 📫 How to reach me: otavio.correa@aluno.ufop.edu.br
 - 💬 Ask me instagram.com/otaviolscorrea/
 - ⚡ Fun fact: I love offline and online games, books, socializing with friends, barbecue and I'm eclectic for music.
 
